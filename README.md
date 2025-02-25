@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THESAURABH07
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c language 
-- 💞️ I’m looking to collaborate on web developer program
+- 🌱 I’m currently learning ... python and DL,ML
+- 💞️ I’m looking to collaborate a data analytics
 - 📫 How to reach me sp2634350@gmail.com
 
 <!---
